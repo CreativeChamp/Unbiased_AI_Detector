@@ -373,7 +373,3 @@ VITE_API_URL=https://fairlens-backend-xxxx.run.app
 
 
 ---
-
-That's your complete README in plain text. It covers everything: hero section, problem/solution, SDGs, features in depth, technical architecture, installation, API reference, deployment, and the "why we win" angle for judges.
-
-The key is **technical credibility** (we use real bias metrics, not made-up ones) + **accessibility** (Gemini explains results to non-scientists) + **impact** (SDGs 8 & 10 are solved by fair hiring). Good luck with the submission! 🚀
