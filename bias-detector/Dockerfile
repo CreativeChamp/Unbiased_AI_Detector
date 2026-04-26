@@ -27,7 +27,7 @@ WORKDIR /app
 COPY --from=builder /app/dist ./dist
 
 # Expose port 3000
-EXPOSE 3000
+EXPOSE 8000
 
 # Serve the React app
 CMD ["serve", "-s", "dist", "-l", "8000"]
